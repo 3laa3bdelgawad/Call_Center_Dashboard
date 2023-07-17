@@ -17,3 +17,4 @@ Once the data has been cleaned, we perform a comprehensive analysis using pivot 
 - Calls by State: Categorizes calls based on geographic location, providing insights into regional call volumes and demographics.
 ### 3- Data Visualization:
 To effectively communicate the findings and insights derived from the data analysis, we create visualizations using the pivot tables. Visualizations include charts, graphs, and dashboards in Excel to present the analyzed data in a meaningful way. Interactive visualizations enable stakeholders to comprehend complex information, spot trends, and identify areas requiring attention. These visual representations aid in making informed business decisions and facilitate effective communication of results.
+![Dashboard Screenshot](https://github.com/3laa3bdelgawad/Call_Center_Dashboard-/blob/main/Screenshot%20(165).png)
